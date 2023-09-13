@@ -3,7 +3,7 @@ This is the info of the project.
 
 ## Tech in this project
 
-```bash
+'''bash
 library ieee;
 library ieee.std_logig.all;
-```
+'''
